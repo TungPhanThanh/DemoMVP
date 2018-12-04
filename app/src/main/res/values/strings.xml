@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DemoMVP</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="text_two"> here</string>
+    <string name="text_one">If you don\'t have account! </string>
+    <string name="login_success">Login Success!</string>
+    <string name="msg_validation">Username or Password is Empty!</string>
+    <string name="msg_success">Sign In Success!</string>
+    <string name="msg_failure">Sign In Fail !</string>
 </resources>
